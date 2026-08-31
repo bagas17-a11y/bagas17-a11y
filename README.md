@@ -44,10 +44,19 @@ this shop, modelled properly.
 **[Bagascuts](https://github.com/bagas17-a11y)** — a student barbershop I started at
 Berkeley and grew to 150+ clients. It funded Timor Trims.
 
+**Toyota** — Operations Management & Development Division (Jakarta, Dec 2025–Jan 2026).
+Exposed to Toyota Production System and lean manufacturing practice on the shop floor.
+
+**Shopee** — Product & Business Intelligence Intern on ShopeeFood (Jakarta, May–Aug 2025).
+Designed a local-merchant bundling program that doubled average basket size across 35+ merchants
+and grew buyer volume 20%. Diagnosed funnel and fulfillment gaps across 50M+ transaction records
+via SQL, surfacing 8 insights adopted into ShopeeFood's regional planning cycle.
+
 **Engvolve** — an IELTS prep and university-admissions platform for Indonesian students.
 Product, content and partnerships.
 
-**Mangoovi** — youth-led mangrove conservation in Jakarta.
+**Mangroovy** — youth-led mangrove conservation in Jakarta. $35K+ initiative, 91 volunteers,
+300+ trees planted, 3 national publications.
 
 ---
 
