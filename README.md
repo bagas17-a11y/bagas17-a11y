@@ -50,7 +50,8 @@ Exposed to Toyota Production System and lean manufacturing practice on the shop 
 **Shopee** — Product & Business Intelligence Intern on ShopeeFood (Jakarta, May–Aug 2025).
 Designed a local-merchant bundling program that doubled average basket size across 35+ merchants
 and grew buyer volume 20%. Diagnosed funnel and fulfillment gaps across 50M+ transaction records
-via SQL, surfacing 8 insights adopted into ShopeeFood's regional planning cycle.
+via SQL, surfacing 8 insights adopted into ShopeeFood's regional planning cycle. Coordinated package tracking & logistics operations for SPX Express across Jakarta’s high-volume distribution network, identifying shipment discrepancies and escalating delays to uphold last-mile delivery SLA targets. Optimized last-mile delivery route planning for SPX Express Jakarta, restructuring courier assignments across delivery
+zones to reduce route overlap and improve stops-per-hour efficiency within high-density urban corridors.
 
 **Engvolve** — an IELTS prep and university-admissions platform for Indonesian students.
 Product, content and partnerships.
